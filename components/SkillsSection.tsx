@@ -1,5 +1,4 @@
   import data from '@/app/api/data';
-  import { Skills } from '@/types/types';
 
   export default function SkillsSection() {
     const { skills, certifications } = data;
